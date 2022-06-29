@@ -148,8 +148,9 @@ height="40"></img></a>&nbsp;&nbsp;
 Divyanshu Yadav
 
 <p align="center">
-<img src = "https://biomechanics-ai.netlify.app/static/media/div.84734c08586723935f13.jpg"  height="120" alt="Indira">
+<img src = "https://user-images.githubusercontent.com/91051053/176500030-12994e77-0ed5-418e-af13-0181a6ce217c.jpg"  height="120" alt="Indira">
 </p>
+
 <p align="center">
 <a href = "https://github.com/divyanshu1810"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/divyanshu-yadav-b32a76220/">
